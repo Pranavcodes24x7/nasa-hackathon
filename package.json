@@ -1,0 +1,1 @@
+{"name":"abandoned-but-not-forgotten","version":"1.0.0","private":true,"scripts":{"start":"npx --yes serve -l 3000 .","fetch":"node scripts/fetch-assets.mjs"}}

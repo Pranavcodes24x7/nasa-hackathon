@@ -1,0 +1,90 @@
+{
+ "MESSENGER": [
+  "MESSENGER spacecraft",
+  "messenger"
+ ],
+ "Pioneer Venus Probes": [
+  "Pioneer Venus probe",
+  "pioneer venus|venus probe"
+ ],
+ "Magellan": [
+  "Magellan spacecraft Venus",
+  "magellan"
+ ],
+ "Kepler": [
+  "Kepler space telescope",
+  "kepler"
+ ],
+ "Apollo Lunar Modules": [
+  "Apollo 11 lunar module Eagle",
+  "lunar module|eagle|lm"
+ ],
+ "Lunar Roving Vehicles": [
+  "lunar roving vehicle",
+  "rov|lrv"
+ ],
+ "ALSEP Science Stations": [
+  "ALSEP Apollo lunar surface experiments package",
+  "alsep|experiment"
+ ],
+ "Surveyor 3": [
+  "Surveyor 3",
+  "surveyor"
+ ],
+ "Viking 1 and 2": [
+  "Viking lander",
+  "viking"
+ ],
+ "Sojourner": [
+  "Sojourner rover",
+  "sojourner"
+ ],
+ "Spirit and Opportunity": [
+  "Mars Exploration Rover",
+  "spirit|opportunity|rover"
+ ],
+ "Phoenix": [
+  "Phoenix Mars lander",
+  "phoenix"
+ ],
+ "InSight": [
+  "InSight lander",
+  "insight"
+ ],
+ "Ingenuity": [
+  "Ingenuity Mars helicopter",
+  "ingenuity"
+ ],
+ "Dawn": [
+  "Dawn spacecraft",
+  "dawn"
+ ],
+ "NEAR Shoemaker": [
+  "NEAR Shoemaker spacecraft",
+  "near|eros"
+ ],
+ "Pioneer 10": [
+  "Pioneer 10 spacecraft",
+  "pioneer"
+ ],
+ "Galileo": [
+  "Galileo spacecraft",
+  "galileo"
+ ],
+ "Pioneer 11": [
+  "Pioneer 11 spacecraft",
+  "pioneer"
+ ],
+ "Cassini": [
+  "Cassini spacecraft",
+  "cassini"
+ ],
+ "Voyager 2": [
+  "Voyager spacecraft",
+  "voyager"
+ ],
+ "Voyager 2 at Neptune": [
+  "Voyager spacecraft",
+  "voyager"
+ ]
+}
